@@ -28,6 +28,6 @@ Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
-## urls
+## My links
 
-[Linkedin](https://cdn2.iconfinder.com/data/icons/simple-social-media-shadow/512/14-512.png)
+[Linkedin](https://www.linkedin.com/in/priyansh-magotra-a98282141/)
