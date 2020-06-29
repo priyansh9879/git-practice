@@ -31,3 +31,16 @@ Please make sure to update tests as appropriate.
 ## My links
 
 [Linkedin](https://www.linkedin.com/in/priyansh-magotra-a98282141/)
+
+## List
+
+You can write an ordered list, unordered list, and mixed list. Please see the below format how to write a list.
+
+1. Item 1
+2. Item 2
+3. Item 3   
+	* Sub item 1   
+	* Sub item 3
+* Unordered item
+* Unordered item
+* Unordered item
