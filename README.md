@@ -48,7 +48,7 @@ You can write an ordered list, unordered list, and mixed list. Please see the be
 
 ## Technologies used:
 
-[GitHub](https://github.com/)
-[Jenkins](https://www.jenkins.io/)
-[Docker](https://www.docker.com/)
-[Red Hat Enteprise Linux 8](https://www.redhat.com/en/enterprise-linux-8)
+* [GitHub](https://github.com/)
+* [Jenkins](https://www.jenkins.io/)
+* [Docker](https://www.docker.com/)
+* [Red Hat Enteprise Linux 8](https://www.redhat.com/en/enterprise-linux-8)
